@@ -1,17 +1,14 @@
 {
   "name": "language-hledger",
   "main": "",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "hledger language support in Pulsar",
-  "keywords": [
-  ],
-  "activationCommands": {
-  },
+  "keywords": [],
+  "activationCommands": {},
   "repository": "https://github.com/aleyoscar/language-hledger",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
