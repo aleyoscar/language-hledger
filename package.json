@@ -1,14 +1,13 @@
 {
   "name": "language-hledger",
-  "main": "./lib/language-hledger",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "main": "",
+  "version": "0.1.0",
+  "description": "hledger language support in Pulsar",
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "language-hledger:toggle"
   },
-  "repository": "https://github.com/atom/language-hledger",
+  "repository": "https://github.com/aleyoscar/language-hledger",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
