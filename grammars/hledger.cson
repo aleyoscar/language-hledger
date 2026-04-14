@@ -1,0 +1,13 @@
+name: 'hledger'
+scopeName: 'source.hledger'
+type: 'modern-tree-sitter'
+parser: 'tree-sitter-hledger'
+treeSitter:
+  grammar: 'tree-sitter/grammar.wasm'
+  highlightsQuery: 'tree-sitter/highlights.scm'
+  # foldsQuery: 'tree-sitter/folds.scm'
+  # indentsQuery: 'tree-sitter/indents.scm'
+fileTypes: ["journal", "j", "hledger", "ledger"]
+comments:
+  start: '; '
+  line: ';'

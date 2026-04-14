@@ -1,0 +1,5 @@
+'.source.hledger':
+  'editor':
+    'commentStart': '; '
+    'commentDelimeters':
+      'line': ';'
